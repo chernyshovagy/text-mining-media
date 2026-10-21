@@ -1,0 +1,713 @@
+2025-05-19 20:13:47,851 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:13:47,883 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 20:32:42,265 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:32:42,293 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 20:36:03,939 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:36:03,968 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 20:43:39,012 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:43:39,040 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 20:44:16,905 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:44:16,934 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 20:45:07,255 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 20:45:07,285 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 21:11:23,564 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 21:11:23,601 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 21:12:49,716 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 21:12:49,746 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 21:13:14,649 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 21:13:14,680 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:11:58,357 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:11:58,401 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:26:05,389 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:26:05,419 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:27:58,584 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:27:58,613 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:28:21,897 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:28:21,928 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:31:22,927 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:31:22,956 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:34:55,994 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:34:56,024 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:40:50,056 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:40:50,085 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-19 23:41:42,543 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-19 23:41:42,573 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:01:00,375 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:01:00,405 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:03:10,228 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:03:10,259 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:03:59,440 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:03:59,469 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:10:36,507 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:10:36,539 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:12:08,531 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:12:08,561 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:16:21,249 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:16:21,279 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:16:26,820 - INFO - Обрабатываем папку: Башкортостан
+2025-05-20 00:16:26,820 - INFO - Обработка файла: Башкортостан_посты_2020.xlsx
+2025-05-20 00:16:26,886 - ERROR - Ошибка обработки файла Башкортостан_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:26,886 - INFO - Обработка файла: Башкортостан_посты_2020_итоги.xlsx
+2025-05-20 00:16:26,894 - ERROR - Ошибка обработки файла Башкортостан_посты_2020_итоги.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:26,894 - INFO - Обработка файла: Башкортостан_посты_2020_разметка.xlsx
+2025-05-20 00:16:26,959 - ERROR - Ошибка обработки файла Башкортостан_посты_2020_разметка.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:26,959 - INFO - Обработка файла: Башкортостан_посты_2021.xlsx
+2025-05-20 00:16:26,977 - ERROR - Ошибка обработки файла Башкортостан_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:26,977 - INFO - Обработка файла: Башкортостан_посты_2022.xlsx
+2025-05-20 00:16:27,118 - ERROR - Ошибка обработки файла Башкортостан_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:27,119 - INFO - Обработка файла: Башкортостан_посты_2023.xlsx
+2025-05-20 00:16:27,609 - ERROR - Ошибка обработки файла Башкортостан_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:27,609 - INFO - Обработка файла: Башкортостан_посты_2024.xlsx
+2025-05-20 00:16:27,989 - ERROR - Ошибка обработки файла Башкортостан_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:27,989 - INFO - Обрабатываем папку: Кировская область
+2025-05-20 00:16:27,989 - INFO - Обработка файла: Кировская область_посты_2020.xlsx
+2025-05-20 00:16:28,148 - ERROR - Ошибка обработки файла Кировская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:28,148 - INFO - Обработка файла: Кировская область_посты_2021.xlsx
+2025-05-20 00:16:28,296 - ERROR - Ошибка обработки файла Кировская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:28,296 - INFO - Обработка файла: Кировская область_посты_2022.xlsx
+2025-05-20 00:16:28,478 - ERROR - Ошибка обработки файла Кировская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:28,478 - INFO - Обработка файла: Кировская область_посты_2023.xlsx
+2025-05-20 00:16:28,760 - ERROR - Ошибка обработки файла Кировская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:28,761 - INFO - Обработка файла: Кировская область_посты_2024.xlsx
+2025-05-20 00:16:29,075 - ERROR - Ошибка обработки файла Кировская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:29,076 - INFO - Обрабатываем папку: Марий Эл
+2025-05-20 00:16:29,076 - INFO - Обработка файла: Марий Эл_посты_2020.xlsx
+2025-05-20 00:16:29,413 - ERROR - Ошибка обработки файла Марий Эл_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:29,413 - INFO - Обработка файла: Марий Эл_посты_2021.xlsx
+2025-05-20 00:16:29,570 - ERROR - Ошибка обработки файла Марий Эл_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:29,570 - INFO - Обработка файла: Марий Эл_посты_2022.xlsx
+2025-05-20 00:16:29,758 - ERROR - Ошибка обработки файла Марий Эл_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:29,758 - INFO - Обработка файла: Марий Эл_посты_2023.xlsx
+2025-05-20 00:16:29,895 - ERROR - Ошибка обработки файла Марий Эл_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:29,895 - INFO - Обработка файла: Марий Эл_посты_2024.xlsx
+2025-05-20 00:16:30,274 - ERROR - Ошибка обработки файла Марий Эл_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,274 - INFO - Обрабатываем папку: Мордовия
+2025-05-20 00:16:30,275 - INFO - Обработка файла: Мордовия_посты_2020.xlsx
+2025-05-20 00:16:30,440 - ERROR - Ошибка обработки файла Мордовия_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,440 - INFO - Обработка файла: Мордовия_посты_2021.xlsx
+2025-05-20 00:16:30,608 - ERROR - Ошибка обработки файла Мордовия_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,608 - INFO - Обработка файла: Мордовия_посты_2022.xlsx
+2025-05-20 00:16:30,722 - ERROR - Ошибка обработки файла Мордовия_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,722 - INFO - Обработка файла: Мордовия_посты_2023.xlsx
+2025-05-20 00:16:30,758 - ERROR - Ошибка обработки файла Мордовия_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,758 - INFO - Обработка файла: Мордовия_посты_2024.xlsx
+2025-05-20 00:16:30,868 - ERROR - Ошибка обработки файла Мордовия_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:30,869 - INFO - Обрабатываем папку: Нижегородская область
+2025-05-20 00:16:30,869 - INFO - Обработка файла: Нижегородская область_посты_2020.xlsx
+2025-05-20 00:16:31,223 - ERROR - Ошибка обработки файла Нижегородская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:31,224 - INFO - Обработка файла: Нижегородская область_посты_2021.xlsx
+2025-05-20 00:16:31,372 - ERROR - Ошибка обработки файла Нижегородская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:31,372 - INFO - Обработка файла: Нижегородская область_посты_2022.xlsx
+2025-05-20 00:16:31,531 - ERROR - Ошибка обработки файла Нижегородская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:31,531 - INFO - Обработка файла: Нижегородская область_посты_2023.xlsx
+2025-05-20 00:16:31,751 - ERROR - Ошибка обработки файла Нижегородская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:31,753 - INFO - Обработка файла: Нижегородская область_посты_2024.xlsx
+2025-05-20 00:16:32,180 - ERROR - Ошибка обработки файла Нижегородская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:32,180 - INFO - Обрабатываем папку: Оренбургская область
+2025-05-20 00:16:32,180 - INFO - Обработка файла: Оренбургская область_посты_2020.xlsx
+2025-05-20 00:16:32,724 - ERROR - Ошибка обработки файла Оренбургская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:32,724 - INFO - Обработка файла: Оренбургская область_посты_2021.xlsx
+2025-05-20 00:16:33,269 - ERROR - Ошибка обработки файла Оренбургская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:33,269 - INFO - Обработка файла: Оренбургская область_посты_2022.xlsx
+2025-05-20 00:16:33,779 - ERROR - Ошибка обработки файла Оренбургская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:33,779 - INFO - Обработка файла: Оренбургская область_посты_2023.xlsx
+2025-05-20 00:16:34,175 - ERROR - Ошибка обработки файла Оренбургская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:34,175 - INFO - Обработка файла: Оренбургская область_посты_2024.xlsx
+2025-05-20 00:16:34,741 - ERROR - Ошибка обработки файла Оренбургская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:34,742 - INFO - Обрабатываем папку: Пензенская область
+2025-05-20 00:16:34,742 - INFO - Обработка файла: Пензенская область_посты_2020.xlsx
+2025-05-20 00:16:35,111 - ERROR - Ошибка обработки файла Пензенская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:35,111 - INFO - Обработка файла: Пензенская область_посты_2021.xlsx
+2025-05-20 00:16:35,350 - ERROR - Ошибка обработки файла Пензенская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:35,350 - INFO - Обработка файла: Пензенская область_посты_2022.xlsx
+2025-05-20 00:16:35,545 - ERROR - Ошибка обработки файла Пензенская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:35,545 - INFO - Обработка файла: Пензенская область_посты_2023.xlsx
+2025-05-20 00:16:35,662 - ERROR - Ошибка обработки файла Пензенская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:35,662 - INFO - Обработка файла: Пензенская область_посты_2024.xlsx
+2025-05-20 00:16:35,861 - ERROR - Ошибка обработки файла Пензенская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:35,861 - INFO - Обрабатываем папку: Пермский край
+2025-05-20 00:16:35,861 - INFO - Обработка файла: Пермский край_посты_2020.xlsx
+2025-05-20 00:16:36,087 - ERROR - Ошибка обработки файла Пермский край_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:36,087 - INFO - Обработка файла: Пермский край_посты_2021.xlsx
+2025-05-20 00:16:36,371 - ERROR - Ошибка обработки файла Пермский край_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:36,371 - INFO - Обработка файла: Пермский край_посты_2022.xlsx
+2025-05-20 00:16:36,607 - ERROR - Ошибка обработки файла Пермский край_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:36,607 - INFO - Обработка файла: Пермский край_посты_2023.xlsx
+2025-05-20 00:16:36,897 - ERROR - Ошибка обработки файла Пермский край_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:36,897 - INFO - Обработка файла: Пермский край_посты_2024.xlsx
+2025-05-20 00:16:37,115 - ERROR - Ошибка обработки файла Пермский край_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:37,116 - INFO - Обрабатываем папку: Самарская область
+2025-05-20 00:16:37,116 - INFO - Обработка файла: Самарская область_посты_2020.xlsx
+2025-05-20 00:16:37,271 - ERROR - Ошибка обработки файла Самарская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:37,271 - INFO - Обработка файла: Самарская область_посты_2021.xlsx
+2025-05-20 00:16:37,543 - ERROR - Ошибка обработки файла Самарская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:37,543 - INFO - Обработка файла: Самарская область_посты_2022.xlsx
+2025-05-20 00:16:37,976 - ERROR - Ошибка обработки файла Самарская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:37,976 - INFO - Обработка файла: Самарская область_посты_2023.xlsx
+2025-05-20 00:16:38,382 - ERROR - Ошибка обработки файла Самарская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:38,382 - INFO - Обработка файла: Самарская область_посты_2024.xlsx
+2025-05-20 00:16:38,709 - ERROR - Ошибка обработки файла Самарская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:38,710 - INFO - Обрабатываем папку: Саратовская область
+2025-05-20 00:16:38,710 - INFO - Обработка файла: Саратовская область_посты_2020.xlsx
+2025-05-20 00:16:39,245 - ERROR - Ошибка обработки файла Саратовская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:39,245 - INFO - Обработка файла: Саратовская область_посты_2021.xlsx
+2025-05-20 00:16:39,640 - ERROR - Ошибка обработки файла Саратовская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:39,640 - INFO - Обработка файла: Саратовская область_посты_2022.xlsx
+2025-05-20 00:16:39,978 - ERROR - Ошибка обработки файла Саратовская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:39,979 - INFO - Обработка файла: Саратовская область_посты_2023.xlsx
+2025-05-20 00:16:40,264 - ERROR - Ошибка обработки файла Саратовская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:16:40,264 - INFO - Обработка файла: Саратовская область_посты_2024.xlsx
+2025-05-20 00:18:05,718 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:18:05,754 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:20:34,650 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:20:34,680 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:23:23,773 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:23:23,805 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:24:04,584 - INFO - Обработка файла: Башкортостан_посты_2020.xlsx
+2025-05-20 00:24:04,657 - ERROR - Ошибка обработки файла Башкортостан_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:04,657 - INFO - Обработка файла: Башкортостан_посты_2020_итоги.xlsx
+2025-05-20 00:24:04,675 - ERROR - Ошибка обработки файла Башкортостан_посты_2020_итоги.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:04,675 - INFO - Обработка файла: Башкортостан_посты_2020_разметка.xlsx
+2025-05-20 00:24:04,737 - ERROR - Ошибка обработки файла Башкортостан_посты_2020_разметка.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:04,737 - INFO - Обработка файла: Башкортостан_посты_2021.xlsx
+2025-05-20 00:24:04,764 - ERROR - Ошибка обработки файла Башкортостан_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:04,764 - INFO - Обработка файла: Башкортостан_посты_2022.xlsx
+2025-05-20 00:24:04,918 - ERROR - Ошибка обработки файла Башкортостан_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:04,918 - INFO - Обработка файла: Башкортостан_посты_2023.xlsx
+2025-05-20 00:24:05,425 - ERROR - Ошибка обработки файла Башкортостан_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:05,425 - INFO - Обработка файла: Башкортостан_посты_2024.xlsx
+2025-05-20 00:24:05,824 - ERROR - Ошибка обработки файла Башкортостан_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:05,824 - INFO - Обработка файла: Кировская область_посты_2020.xlsx
+2025-05-20 00:24:05,995 - ERROR - Ошибка обработки файла Кировская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:05,995 - INFO - Обработка файла: Кировская область_посты_2021.xlsx
+2025-05-20 00:24:06,135 - ERROR - Ошибка обработки файла Кировская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:06,135 - INFO - Обработка файла: Кировская область_посты_2022.xlsx
+2025-05-20 00:24:06,305 - ERROR - Ошибка обработки файла Кировская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:06,305 - INFO - Обработка файла: Кировская область_посты_2023.xlsx
+2025-05-20 00:24:06,584 - ERROR - Ошибка обработки файла Кировская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:06,584 - INFO - Обработка файла: Кировская область_посты_2024.xlsx
+2025-05-20 00:24:06,895 - ERROR - Ошибка обработки файла Кировская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:06,895 - INFO - Обработка файла: Марий Эл_посты_2020.xlsx
+2025-05-20 00:24:07,234 - ERROR - Ошибка обработки файла Марий Эл_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:07,234 - INFO - Обработка файла: Марий Эл_посты_2021.xlsx
+2025-05-20 00:24:07,464 - ERROR - Ошибка обработки файла Марий Эл_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:07,464 - INFO - Обработка файла: Марий Эл_посты_2022.xlsx
+2025-05-20 00:24:07,665 - ERROR - Ошибка обработки файла Марий Эл_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:07,665 - INFO - Обработка файла: Марий Эл_посты_2023.xlsx
+2025-05-20 00:24:07,805 - ERROR - Ошибка обработки файла Марий Эл_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:07,805 - INFO - Обработка файла: Марий Эл_посты_2024.xlsx
+2025-05-20 00:24:08,216 - ERROR - Ошибка обработки файла Марий Эл_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,221 - INFO - Обработка файла: Мордовия_посты_2020.xlsx
+2025-05-20 00:24:08,385 - ERROR - Ошибка обработки файла Мордовия_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,385 - INFO - Обработка файла: Мордовия_посты_2021.xlsx
+2025-05-20 00:24:08,544 - ERROR - Ошибка обработки файла Мордовия_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,548 - INFO - Обработка файла: Мордовия_посты_2022.xlsx
+2025-05-20 00:24:08,664 - ERROR - Ошибка обработки файла Мордовия_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,664 - INFO - Обработка файла: Мордовия_посты_2023.xlsx
+2025-05-20 00:24:08,701 - ERROR - Ошибка обработки файла Мордовия_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,701 - INFO - Обработка файла: Мордовия_посты_2024.xlsx
+2025-05-20 00:24:08,805 - ERROR - Ошибка обработки файла Мордовия_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:08,805 - INFO - Обработка файла: Нижегородская область_посты_2020.xlsx
+2025-05-20 00:24:09,161 - ERROR - Ошибка обработки файла Нижегородская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:09,161 - INFO - Обработка файла: Нижегородская область_посты_2021.xlsx
+2025-05-20 00:24:09,298 - ERROR - Ошибка обработки файла Нижегородская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:09,298 - INFO - Обработка файла: Нижегородская область_посты_2022.xlsx
+2025-05-20 00:24:09,474 - ERROR - Ошибка обработки файла Нижегородская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:09,474 - INFO - Обработка файла: Нижегородская область_посты_2023.xlsx
+2025-05-20 00:24:09,717 - ERROR - Ошибка обработки файла Нижегородская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:09,717 - INFO - Обработка файла: Нижегородская область_посты_2024.xlsx
+2025-05-20 00:24:10,167 - ERROR - Ошибка обработки файла Нижегородская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:10,167 - INFO - Обработка файла: Оренбургская область_посты_2020.xlsx
+2025-05-20 00:24:10,724 - ERROR - Ошибка обработки файла Оренбургская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:10,724 - INFO - Обработка файла: Оренбургская область_посты_2021.xlsx
+2025-05-20 00:24:11,305 - ERROR - Ошибка обработки файла Оренбургская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:11,305 - INFO - Обработка файла: Оренбургская область_посты_2022.xlsx
+2025-05-20 00:24:11,796 - ERROR - Ошибка обработки файла Оренбургская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:11,796 - INFO - Обработка файла: Оренбургская область_посты_2023.xlsx
+2025-05-20 00:24:12,196 - ERROR - Ошибка обработки файла Оренбургская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:12,196 - INFO - Обработка файла: Оренбургская область_посты_2024.xlsx
+2025-05-20 00:24:12,727 - ERROR - Ошибка обработки файла Оренбургская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:12,727 - INFO - Обработка файла: Пензенская область_посты_2020.xlsx
+2025-05-20 00:24:13,105 - ERROR - Ошибка обработки файла Пензенская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:13,105 - INFO - Обработка файла: Пензенская область_посты_2021.xlsx
+2025-05-20 00:24:13,355 - ERROR - Ошибка обработки файла Пензенская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:13,355 - INFO - Обработка файла: Пензенская область_посты_2022.xlsx
+2025-05-20 00:24:13,563 - ERROR - Ошибка обработки файла Пензенская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:13,564 - INFO - Обработка файла: Пензенская область_посты_2023.xlsx
+2025-05-20 00:24:13,696 - ERROR - Ошибка обработки файла Пензенская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:13,698 - INFO - Обработка файла: Пензенская область_посты_2024.xlsx
+2025-05-20 00:24:13,905 - ERROR - Ошибка обработки файла Пензенская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:13,906 - INFO - Обработка файла: Пермский край_посты_2020.xlsx
+2025-05-20 00:24:14,135 - ERROR - Ошибка обработки файла Пермский край_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:14,135 - INFO - Обработка файла: Пермский край_посты_2021.xlsx
+2025-05-20 00:24:14,446 - ERROR - Ошибка обработки файла Пермский край_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:14,446 - INFO - Обработка файла: Пермский край_посты_2022.xlsx
+2025-05-20 00:24:14,705 - ERROR - Ошибка обработки файла Пермский край_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:14,707 - INFO - Обработка файла: Пермский край_посты_2023.xlsx
+2025-05-20 00:24:15,006 - ERROR - Ошибка обработки файла Пермский край_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:15,006 - INFO - Обработка файла: Пермский край_посты_2024.xlsx
+2025-05-20 00:24:15,218 - ERROR - Ошибка обработки файла Пермский край_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:15,218 - INFO - Обработка файла: Самарская область_посты_2020.xlsx
+2025-05-20 00:24:15,345 - ERROR - Ошибка обработки файла Самарская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:15,345 - INFO - Обработка файла: Самарская область_посты_2021.xlsx
+2025-05-20 00:24:15,636 - ERROR - Ошибка обработки файла Самарская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:15,636 - INFO - Обработка файла: Самарская область_посты_2022.xlsx
+2025-05-20 00:24:16,064 - ERROR - Ошибка обработки файла Самарская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:16,065 - INFO - Обработка файла: Самарская область_посты_2023.xlsx
+2025-05-20 00:24:16,505 - ERROR - Ошибка обработки файла Самарская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:16,505 - INFO - Обработка файла: Самарская область_посты_2024.xlsx
+2025-05-20 00:24:16,874 - ERROR - Ошибка обработки файла Самарская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:16,874 - INFO - Обработка файла: Саратовская область_посты_2020.xlsx
+2025-05-20 00:24:17,475 - ERROR - Ошибка обработки файла Саратовская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:17,475 - INFO - Обработка файла: Саратовская область_посты_2021.xlsx
+2025-05-20 00:24:17,909 - ERROR - Ошибка обработки файла Саратовская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:17,911 - INFO - Обработка файла: Саратовская область_посты_2022.xlsx
+2025-05-20 00:24:18,250 - ERROR - Ошибка обработки файла Саратовская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,250 - INFO - Обработка файла: Саратовская область_посты_2023.xlsx
+2025-05-20 00:24:18,531 - ERROR - Ошибка обработки файла Саратовская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,531 - INFO - Обработка файла: Саратовская область_посты_2024.xlsx
+2025-05-20 00:24:18,707 - ERROR - Ошибка обработки файла Саратовская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,707 - INFO - Обработка файла: Татарстан_посты_2020.xlsx
+2025-05-20 00:24:18,903 - ERROR - Ошибка обработки файла Татарстан_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,903 - INFO - Обработка файла: Татарстан_посты_2021.xlsx
+2025-05-20 00:24:18,935 - ERROR - Ошибка обработки файла Татарстан_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,935 - INFO - Обработка файла: Татарстан_посты_2022.xlsx
+2025-05-20 00:24:18,975 - ERROR - Ошибка обработки файла Татарстан_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:18,975 - INFO - Обработка файла: Татарстан_посты_2023.xlsx
+2025-05-20 00:24:19,007 - ERROR - Ошибка обработки файла Татарстан_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:19,007 - INFO - Обработка файла: Татарстан_посты_2024.xlsx
+2025-05-20 00:24:19,176 - ERROR - Ошибка обработки файла Татарстан_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:19,176 - INFO - Обработка файла: Удмуртия_посты_2020.xlsx
+2025-05-20 00:24:19,648 - ERROR - Ошибка обработки файла Удмуртия_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:19,648 - INFO - Обработка файла: Удмуртия_посты_2021.xlsx
+2025-05-20 00:24:20,079 - ERROR - Ошибка обработки файла Удмуртия_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:20,079 - INFO - Обработка файла: Удмуртия_посты_2022.xlsx
+2025-05-20 00:24:20,436 - ERROR - Ошибка обработки файла Удмуртия_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:20,436 - INFO - Обработка файла: Удмуртия_посты_2023.xlsx
+2025-05-20 00:24:20,875 - ERROR - Ошибка обработки файла Удмуртия_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:20,875 - INFO - Обработка файла: Удмуртия_посты_2024.xlsx
+2025-05-20 00:24:21,266 - ERROR - Ошибка обработки файла Удмуртия_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,266 - INFO - Обработка файла: Ульяновская область_посты_2020.xlsx
+2025-05-20 00:24:21,373 - ERROR - Ошибка обработки файла Ульяновская область_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,373 - INFO - Обработка файла: Ульяновская область_посты_2021.xlsx
+2025-05-20 00:24:21,433 - ERROR - Ошибка обработки файла Ульяновская область_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,433 - INFO - Обработка файла: Ульяновская область_посты_2022.xlsx
+2025-05-20 00:24:21,625 - ERROR - Ошибка обработки файла Ульяновская область_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,625 - INFO - Обработка файла: Ульяновская область_посты_2023.xlsx
+2025-05-20 00:24:21,754 - ERROR - Ошибка обработки файла Ульяновская область_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,754 - INFO - Обработка файла: Ульяновская область_посты_2024.xlsx
+2025-05-20 00:24:21,994 - ERROR - Ошибка обработки файла Ульяновская область_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:21,995 - INFO - Обработка файла: Чувашия_посты_2020.xlsx
+2025-05-20 00:24:22,386 - ERROR - Ошибка обработки файла Чувашия_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:22,386 - INFO - Обработка файла: Чувашия_посты_2021.xlsx
+2025-05-20 00:24:22,755 - ERROR - Ошибка обработки файла Чувашия_посты_2021.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:22,755 - INFO - Обработка файла: Чувашия_посты_2022.xlsx
+2025-05-20 00:24:23,096 - ERROR - Ошибка обработки файла Чувашия_посты_2022.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:23,096 - INFO - Обработка файла: Чувашия_посты_2023.xlsx
+2025-05-20 00:24:23,435 - ERROR - Ошибка обработки файла Чувашия_посты_2023.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:23,435 - INFO - Обработка файла: Чувашия_посты_2024.xlsx
+2025-05-20 00:24:23,710 - ERROR - Ошибка обработки файла Чувашия_посты_2024.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:24:23,710 - INFO - Обработка завершена!
+2025-05-20 00:26:31,918 - INFO - Обработка файла: Башкортостан_посты_2020.xlsx
+2025-05-20 00:26:45,824 - ERROR - Ошибка обработки файла Башкортостан_посты_2020.xlsx: determine_sentiment_score() missing 1 required positional argument: 'dict_id'
+2025-05-20 00:32:52,549 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:32:52,581 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:32:58,998 - INFO - Обработка файла: Башкортостан_посты_2020.xlsx
+2025-05-20 00:33:26,490 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_разметка.xlsx
+2025-05-20 00:33:26,683 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_plot.png
+2025-05-20 00:33:26,700 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_итоги.xlsx
+2025-05-20 00:33:26,700 - INFO - Обработка файла: Башкортостан_посты_2020_итоги.xlsx
+2025-05-20 00:33:27,077 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_итоги_разметка.xlsx
+2025-05-20 00:33:27,217 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_итоги_plot.png
+2025-05-20 00:33:27,238 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_итоги_итоги.xlsx
+2025-05-20 00:33:27,239 - INFO - Обработка файла: Башкортостан_посты_2020_разметка.xlsx
+2025-05-20 00:33:55,137 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_разметка_разметка.xlsx
+2025-05-20 00:33:55,279 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_разметка_plot.png
+2025-05-20 00:33:55,297 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2020_разметка_итоги.xlsx
+2025-05-20 00:33:55,297 - INFO - Обработка файла: Башкортостан_посты_2021.xlsx
+2025-05-20 00:34:00,847 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2021_разметка.xlsx
+2025-05-20 00:34:00,976 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2021_plot.png
+2025-05-20 00:34:00,995 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2021_итоги.xlsx
+2025-05-20 00:34:00,995 - INFO - Обработка файла: Башкортостан_посты_2022.xlsx
+2025-05-20 00:34:57,068 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2022_разметка.xlsx
+2025-05-20 00:34:57,203 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2022_plot.png
+2025-05-20 00:34:57,221 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2022_итоги.xlsx
+2025-05-20 00:34:57,221 - INFO - Обработка файла: Башкортостан_посты_2023.xlsx
+2025-05-20 00:38:24,746 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2023_разметка.xlsx
+2025-05-20 00:38:24,884 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2023_plot.png
+2025-05-20 00:38:24,903 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2023_итоги.xlsx
+2025-05-20 00:38:24,903 - INFO - Обработка файла: Башкортостан_посты_2024.xlsx
+2025-05-20 00:41:12,881 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2024_разметка.xlsx
+2025-05-20 00:41:13,015 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2024_plot.png
+2025-05-20 00:41:13,032 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Башкортостан\Башкортостан_посты_2024_итоги.xlsx
+2025-05-20 00:41:13,032 - INFO - Обработка файла: Кировская область_посты_2020.xlsx
+2025-05-20 00:42:27,752 - INFO - Результаты сохранены: D:/source/TryToParse_2025/ПФО_проверка\Кировская область\Кировская область_посты_2020_разметка.xlsx
+2025-05-20 00:42:27,885 - INFO - График сохранен: D:/source/TryToParse_2025/ПФО_проверка\Кировская область\Кировская область_посты_2020_plot.png
+2025-05-20 00:42:27,902 - INFO - Статистика сохранена: D:/source/TryToParse_2025/ПФО_проверка\Кировская область\Кировская область_посты_2020_итоги.xlsx
+2025-05-20 00:42:27,902 - INFO - Обработка файла: Кировская область_посты_2021.xlsx
+2025-05-20 00:52:15,746 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:52:15,785 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:52:53,726 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:52:53,758 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:53:09,279 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:53:09,308 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:53:30,997 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:53:31,028 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 00:56:08,851 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 00:56:08,917 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 02:36:29,272 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 02:36:29,324 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 02:40:58,355 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 02:40:58,407 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 08:43:57,556 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 08:43:57,613 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 08:45:04,196 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 08:45:04,227 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 08:49:48,181 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 08:49:48,211 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 09:25:07,027 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 09:25:07,065 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 09:25:22,719 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 09:25:22,754 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 09:25:53,145 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 09:27:11,715 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 09:27:35,560 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 09:28:05,146 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 09:28:42,760 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 09:29:00,800 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 10:02:02,639 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 10:02:02,671 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 10:02:18,562 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-20 10:07:27,632 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 10:07:27,663 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 10:07:49,656 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 10:07:49,685 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 12:37:23,644 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 12:37:23,720 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:14:16,098 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:14:16,198 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:25:36,231 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:25:36,265 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:26:59,720 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:26:59,769 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:30:11,094 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:30:11,141 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:30:39,751 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:30:39,791 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:45:04,940 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:45:04,970 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 20:50:56,468 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 20:50:56,500 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:14:31,883 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:14:31,919 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:16:32,602 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:16:32,645 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:28:58,339 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:28:58,369 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:33:04,219 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:33:04,250 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:43:59,766 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:43:59,796 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 21:53:50,707 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 21:53:50,750 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:06:08,277 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:06:08,306 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:17:02,687 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:17:02,719 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:24:02,872 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:24:02,902 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:27:21,433 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:27:21,464 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:46:03,173 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:46:03,207 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:46:15,748 - INFO - Обработка завершена!
+2025-05-20 22:46:45,819 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:46:45,852 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:48:07,922 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:48:07,954 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:48:23,623 - INFO - Обработка завершена!
+2025-05-20 22:50:15,385 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:50:15,416 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:52:19,633 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:52:19,663 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:53:03,570 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:53:03,601 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:54:05,217 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:54:05,248 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:55:13,107 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 22:55:13,137 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 22:55:23,824 - INFO - Обработка завершена!
+2025-05-20 22:56:22,239 - INFO - Обработка завершена!
+2025-05-20 22:57:34,611 - INFO - Обработка завершена!
+2025-05-20 22:58:25,467 - INFO - Обработка завершена!
+2025-05-20 22:58:36,184 - INFO - Обработка завершена!
+2025-05-20 22:58:37,230 - INFO - Обработка завершена!
+2025-05-20 22:58:45,387 - INFO - Обработка завершена!
+2025-05-20 22:58:46,619 - INFO - Обработка завершена!
+2025-05-20 22:58:47,540 - INFO - Обработка завершена!
+2025-05-20 22:58:48,599 - INFO - Обработка завершена!
+2025-05-20 22:58:49,396 - INFO - Обработка завершена!
+2025-05-20 22:58:52,934 - INFO - Обработка завершена!
+2025-05-20 22:58:53,702 - INFO - Обработка завершена!
+2025-05-20 22:58:54,362 - INFO - Обработка завершена!
+2025-05-20 22:58:55,021 - INFO - Обработка завершена!
+2025-05-20 22:58:55,717 - INFO - Обработка завершена!
+2025-05-20 22:58:56,261 - INFO - Обработка завершена!
+2025-05-20 22:58:57,007 - INFO - Обработка завершена!
+2025-05-20 23:00:17,524 - INFO - Обработка завершена!
+2025-05-20 23:00:27,705 - INFO - Обработка завершена!
+2025-05-20 23:01:52,324 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 23:01:52,355 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 23:02:19,057 - INFO - Обработка завершена!
+2025-05-20 23:02:25,938 - INFO - Обработка завершена!
+2025-05-20 23:02:25,938 - INFO - Обработка завершена!
+2025-05-20 23:02:25,940 - INFO - Обработка завершена!
+2025-05-20 23:02:25,941 - INFO - Обработка завершена!
+2025-05-20 23:02:25,941 - INFO - Обработка завершена!
+2025-05-20 23:02:25,941 - INFO - Обработка завершена!
+2025-05-20 23:02:25,941 - INFO - Обработка завершена!
+2025-05-20 23:02:25,942 - INFO - Обработка завершена!
+2025-05-20 23:02:25,942 - INFO - Обработка завершена!
+2025-05-20 23:02:25,942 - INFO - Обработка завершена!
+2025-05-20 23:02:25,943 - INFO - Обработка завершена!
+2025-05-20 23:02:25,943 - INFO - Обработка завершена!
+2025-05-20 23:02:25,943 - INFO - Обработка завершена!
+2025-05-20 23:02:47,471 - INFO - Обработка завершена!
+2025-05-20 23:02:47,472 - INFO - Обработка завершена!
+2025-05-20 23:02:47,472 - INFO - Обработка завершена!
+2025-05-20 23:02:47,473 - INFO - Обработка завершена!
+2025-05-20 23:02:47,474 - INFO - Обработка завершена!
+2025-05-20 23:02:47,474 - INFO - Обработка завершена!
+2025-05-20 23:02:47,474 - INFO - Обработка завершена!
+2025-05-20 23:02:47,474 - INFO - Обработка завершена!
+2025-05-20 23:02:47,475 - INFO - Обработка завершена!
+2025-05-20 23:02:47,475 - INFO - Обработка завершена!
+2025-05-20 23:02:47,475 - INFO - Обработка завершена!
+2025-05-20 23:02:47,475 - INFO - Обработка завершена!
+2025-05-20 23:02:47,476 - INFO - Обработка завершена!
+2025-05-20 23:02:47,476 - INFO - Обработка завершена!
+2025-05-20 23:07:30,657 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 23:07:30,696 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 23:09:48,125 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 23:09:48,156 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-20 23:22:34,577 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-20 23:22:34,626 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 08:57:41,964 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 08:57:42,037 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 09:01:57,412 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 09:01:57,462 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 09:01:57,471 - INFO - Обработка завершена!
+2025-05-21 09:28:23,260 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 09:28:23,304 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 09:28:23,311 - INFO - Обработка завершена!
+2025-05-21 11:08:48,458 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 11:08:48,508 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 11:08:48,515 - INFO - Обработка завершена!
+2025-05-21 14:04:25,142 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 14:04:25,200 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 14:04:25,207 - INFO - Обработка завершена!
+2025-05-21 20:12:19,728 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-21 20:12:19,793 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-21 20:12:19,808 - INFO - Обработка завершена!
+2025-05-22 00:00:43,791 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 00:00:43,844 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 00:00:43,864 - INFO - Обработка завершена!
+2025-05-22 08:56:13,887 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 08:56:13,972 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 08:56:13,989 - INFO - Обработка завершена!
+2025-05-22 08:58:09,369 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['value', 'term']
+2025-05-22 09:28:09,166 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:28:09,211 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:28:09,235 - INFO - Обработка завершена!
+2025-05-22 09:29:46,386 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['value', 'term']
+2025-05-22 09:32:19,971 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:32:20,014 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:32:20,020 - INFO - Обработка завершена!
+2025-05-22 09:36:23,253 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:36:23,301 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:36:23,308 - INFO - Обработка завершена!
+2025-05-22 09:39:11,554 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-22 09:41:26,760 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:41:26,803 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:41:31,336 - INFO - Обработка завершена!
+2025-05-22 09:45:17,837 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:45:17,872 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:45:17,878 - INFO - Обработка завершена!
+2025-05-22 09:48:44,973 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-22 09:48:45,017 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-22 09:48:45,028 - INFO - Обработка завершена!
+2025-05-22 09:55:41,686 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['term', 'value']
+2025-05-26 13:08:01,369 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:08:01,452 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:08:01,480 - INFO - Обработка завершена!
+2025-05-26 13:10:02,152 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['value', 'term']
+2025-05-26 13:10:48,916 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:10:48,960 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:10:48,967 - INFO - Обработка завершена!
+2025-05-26 13:11:40,620 - ERROR - Ошибка загрузки словаря: Usecols do not match columns, columns expected but not found: ['value', 'term']
+2025-05-26 13:12:15,569 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:12:15,603 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:12:15,609 - INFO - Обработка завершена!
+2025-05-26 13:14:01,619 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:14:01,665 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:14:01,671 - INFO - Обработка завершена!
+2025-05-26 13:15:45,389 - ERROR - Ошибка загрузки словаря: 'term'
+2025-05-26 13:17:19,308 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:17:19,339 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:17:19,339 - INFO - Обработка завершена!
+2025-05-26 13:17:42,331 - ERROR - Ошибка загрузки словаря: 'term'
+2025-05-26 13:18:18,187 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:18:18,230 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:18:18,247 - INFO - Обработка завершена!
+2025-05-26 13:19:50,286 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-26 13:19:50,332 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-26 13:19:50,339 - INFO - Обработка завершена!
+2025-05-27 14:47:55,278 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-27 14:47:55,356 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-27 14:47:55,383 - INFO - Обработка завершена!
+2025-05-28 10:56:41,382 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-28 10:56:41,435 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-28 10:56:41,452 - INFO - Обработка завершена!
+2025-05-28 14:37:04,128 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-28 14:37:04,195 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-28 14:37:04,218 - INFO - Обработка завершена!
+2025-05-31 14:03:23,102 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-05-31 14:03:23,163 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-05-31 14:03:23,184 - INFO - Обработка завершена!
+2025-06-03 12:39:12,063 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 12:39:12,135 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 12:39:12,155 - INFO - Обработка завершена!
+2025-06-03 13:10:11,673 - INFO - Обработка завершена!
+2025-06-03 13:10:11,682 - INFO - Обработка завершена!
+2025-06-03 13:10:11,687 - INFO - Обработка завершена!
+2025-06-03 13:10:11,693 - INFO - Обработка завершена!
+2025-06-03 13:10:11,700 - INFO - Обработка завершена!
+2025-06-03 13:10:11,706 - INFO - Обработка завершена!
+2025-06-03 13:10:11,709 - INFO - Обработка завершена!
+2025-06-03 13:10:11,713 - INFO - Обработка завершена!
+2025-06-03 13:10:11,719 - INFO - Обработка завершена!
+2025-06-03 13:10:11,724 - INFO - Обработка завершена!
+2025-06-03 13:10:11,730 - INFO - Обработка завершена!
+2025-06-03 13:10:11,734 - INFO - Обработка завершена!
+2025-06-03 13:10:11,738 - INFO - Обработка завершена!
+2025-06-03 13:10:11,744 - INFO - Обработка завершена!
+2025-06-03 13:11:06,684 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 13:11:06,722 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 13:11:06,735 - INFO - Обработка завершена!
+2025-06-03 13:11:20,875 - INFO - Обработка завершена!
+2025-06-03 13:11:20,888 - INFO - Обработка завершена!
+2025-06-03 13:11:20,893 - INFO - Обработка завершена!
+2025-06-03 13:11:20,898 - INFO - Обработка завершена!
+2025-06-03 13:11:20,906 - INFO - Обработка завершена!
+2025-06-03 13:11:20,906 - INFO - Обработка завершена!
+2025-06-03 13:11:20,916 - INFO - Обработка завершена!
+2025-06-03 13:11:20,923 - INFO - Обработка завершена!
+2025-06-03 13:11:20,923 - INFO - Обработка завершена!
+2025-06-03 13:11:20,935 - INFO - Обработка завершена!
+2025-06-03 13:11:20,939 - INFO - Обработка завершена!
+2025-06-03 13:11:20,940 - INFO - Обработка завершена!
+2025-06-03 13:11:20,940 - INFO - Обработка завершена!
+2025-06-03 13:11:20,950 - INFO - Обработка завершена!
+2025-06-03 13:11:36,806 - INFO - Обработка завершена!
+2025-06-03 13:11:36,809 - INFO - Обработка завершена!
+2025-06-03 13:11:36,809 - INFO - Обработка завершена!
+2025-06-03 13:11:36,809 - INFO - Обработка завершена!
+2025-06-03 13:11:36,809 - INFO - Обработка завершена!
+2025-06-03 13:11:36,827 - INFO - Обработка завершена!
+2025-06-03 13:11:36,827 - INFO - Обработка завершена!
+2025-06-03 13:11:36,832 - INFO - Обработка завершена!
+2025-06-03 13:11:36,836 - INFO - Обработка завершена!
+2025-06-03 13:11:36,840 - INFO - Обработка завершена!
+2025-06-03 13:11:36,840 - INFO - Обработка завершена!
+2025-06-03 13:11:36,840 - INFO - Обработка завершена!
+2025-06-03 13:11:36,840 - INFO - Обработка завершена!
+2025-06-03 13:11:36,858 - INFO - Обработка завершена!
+2025-06-03 13:11:40,706 - INFO - Обработка завершена!
+2025-06-03 13:11:40,722 - INFO - Обработка завершена!
+2025-06-03 13:11:40,725 - INFO - Обработка завершена!
+2025-06-03 13:11:40,731 - INFO - Обработка завершена!
+2025-06-03 13:11:40,738 - INFO - Обработка завершена!
+2025-06-03 13:11:40,744 - INFO - Обработка завершена!
+2025-06-03 13:11:40,747 - INFO - Обработка завершена!
+2025-06-03 13:11:40,747 - INFO - Обработка завершена!
+2025-06-03 13:11:40,755 - INFO - Обработка завершена!
+2025-06-03 13:11:40,755 - INFO - Обработка завершена!
+2025-06-03 13:11:40,755 - INFO - Обработка завершена!
+2025-06-03 13:11:40,755 - INFO - Обработка завершена!
+2025-06-03 13:11:40,755 - INFO - Обработка завершена!
+2025-06-03 13:11:40,775 - INFO - Обработка завершена!
+2025-06-03 13:12:24,730 - INFO - Обработка завершена!
+2025-06-03 13:12:24,745 - INFO - Обработка завершена!
+2025-06-03 13:12:24,745 - INFO - Обработка завершена!
+2025-06-03 13:12:24,745 - INFO - Обработка завершена!
+2025-06-03 13:12:24,745 - INFO - Обработка завершена!
+2025-06-03 13:12:24,761 - INFO - Обработка завершена!
+2025-06-03 13:12:24,761 - INFO - Обработка завершена!
+2025-06-03 13:12:24,761 - INFO - Обработка завершена!
+2025-06-03 13:12:24,761 - INFO - Обработка завершена!
+2025-06-03 13:12:24,776 - INFO - Обработка завершена!
+2025-06-03 13:12:24,776 - INFO - Обработка завершена!
+2025-06-03 13:12:24,776 - INFO - Обработка завершена!
+2025-06-03 13:12:24,776 - INFO - Обработка завершена!
+2025-06-03 13:12:24,792 - INFO - Обработка завершена!
+2025-06-03 13:12:44,433 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 13:12:44,465 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 13:20:26,619 - INFO - Обработка завершена!
+2025-06-03 13:21:25,469 - INFO - Обработка завершена!
+2025-06-03 13:21:29,761 - INFO - Обработка завершена!
+2025-06-03 13:21:32,776 - INFO - Обработка завершена!
+2025-06-03 13:43:01,395 - INFO - Обработка завершена!
+2025-06-03 13:43:05,375 - INFO - Обработка завершена!
+2025-06-03 13:43:06,885 - INFO - Обработка завершена!
+2025-06-03 13:43:07,687 - INFO - Обработка завершена!
+2025-06-03 13:43:08,851 - INFO - Обработка завершена!
+2025-06-03 13:43:18,388 - INFO - Обработка завершена!
+2025-06-03 13:43:21,092 - INFO - Обработка завершена!
+2025-06-03 13:43:22,174 - INFO - Обработка завершена!
+2025-06-03 13:43:23,333 - INFO - Обработка завершена!
+2025-06-03 13:43:24,259 - INFO - Обработка завершена!
+2025-06-03 13:43:25,056 - INFO - Обработка завершена!
+2025-06-03 13:44:24,213 - INFO - Обработка завершена!
+2025-06-03 13:44:24,495 - INFO - Обработка завершена!
+2025-06-03 13:44:27,246 - INFO - Обработка завершена!
+2025-06-03 13:44:29,652 - INFO - Обработка завершена!
+2025-06-03 13:44:30,291 - INFO - Обработка завершена!
+2025-06-03 13:44:30,977 - INFO - Обработка завершена!
+2025-06-03 13:44:31,594 - INFO - Обработка завершена!
+2025-06-03 13:44:32,418 - INFO - Обработка завершена!
+2025-06-03 13:44:33,029 - INFO - Обработка завершена!
+2025-06-03 13:44:33,919 - INFO - Обработка завершена!
+2025-06-03 13:44:34,952 - INFO - Обработка завершена!
+2025-06-03 13:47:25,649 - INFO - Обработка завершена!
+2025-06-03 13:47:29,283 - INFO - Обработка завершена!
+2025-06-03 13:47:29,292 - INFO - Обработка завершена!
+2025-06-03 14:14:20,556 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 14:14:20,601 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 14:14:20,616 - INFO - Обработка завершена!
+2025-06-03 14:16:13,489 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 14:16:13,523 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 14:16:13,533 - INFO - Обработка завершена!
+2025-06-03 16:15:50,685 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 16:15:50,745 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 16:15:50,764 - INFO - Обработка завершена!
+2025-06-03 16:22:43,955 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 16:22:43,985 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 16:22:43,998 - INFO - Обработка завершена!
+2025-06-03 16:26:04,609 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 16:26:04,644 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 16:26:04,657 - INFO - Обработка завершена!
+2025-06-03 17:10:39,660 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-03 17:10:39,689 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-03 17:10:39,694 - INFO - Обработка завершена!
+2025-06-05 11:12:07,202 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-05 11:12:07,275 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-05 11:12:07,298 - INFO - Обработка завершена!
+2025-06-05 11:58:25,881 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-05 11:58:25,923 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-05 11:58:25,929 - INFO - Обработка завершена!
+2025-06-05 12:05:10,292 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-05 12:05:10,335 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-05 12:05:10,342 - INFO - Обработка завершена!
+2025-06-05 12:32:22,003 - INFO - Loading dictionaries from C:\Users\taran\OneDrive\Документы\GitHub\TryToParse\venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-06-05 12:32:22,046 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-06-05 12:32:22,052 - INFO - Обработка завершена!
